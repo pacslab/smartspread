@@ -1,0 +1,4 @@
+amqpstorm==2.4.2
+numpy==1.15.2
+requests==2.19
+elasticsearch==6.3.1
