@@ -4,11 +4,11 @@ Smart spread algorithm is a VM selection algorithm that is used to deploy new co
 * deploy
   * deploy.sh
   * worker.sh
-* flask_api/flask -- A Flask-based REST API for collecting information about containers on nodes. ([Documentation](wiki/Docker-Flask-API))
+* flask_api/flask -- A Flask-based REST API for collecting information about containers on nodes. ([Documentation](https://github.com/DDSystemLab/saso2019-smartspread/wiki/Docker-Flask-API))
 * manager
   * DataCollector.ipynb
   * DockerRemoteAPI.py
-  * ELSbeat.py -- A Python class for fetching metrics from Elasticsearch and calculating statistics. ([Documentation](wiki/Fetch-metrics-from-Elasticsearch-and-calculate-statistics))
+  * ELSbeat.py -- A Python class for fetching metrics from Elasticsearch and calculating statistics. ([Documentation](https://github.com/DDSystemLab/saso2019-smartspread/wiki/Fetch-metrics-from-Elasticsearch-and-calculate-statistics))
   * ExperimentProcessing.ipynb
   * Experimenter.ipynb
   * ExperimenterAll.ipynb
