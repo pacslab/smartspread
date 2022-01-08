@@ -37,3 +37,21 @@ Smart spread algorithm is a VM selection algorithm that is used to deploy new co
   * Operating system -- Ubuntu 18.04
   * Python 3.7
   * Metricbeat 6.4.1
+## Citation
+
+You can find the paper with details of the simultor in [PACS lab website](https://pacs.eecs.yorku.ca/publications/). You can use the following bibtex entry for citing our work:
+
+```bib
+@inproceedings{mahmoudi2019smart,
+  author = {Mahmoudi, Nima and Lin, Changyuan and Khazaei, Hamzeh and Litoiu, Marin},
+  title = {Optimizing Serverless Computing: Introducing an Adaptive Function Placement Algorithm},
+  year = {2019},
+  publisher = {IBM Corp.},
+  booktitle = {Proceedings of the 29th Annual International Conference on Computer Science and Software Engineering},
+  pages = {203–213},
+  numpages = {11},
+  keywords = {predictive performance modeling, container placement algorithms, optimization, machine learning, serverless computing},
+  location = {Toronto, Ontario, Canada},
+  series = {CASCON '19}
+}
+```
